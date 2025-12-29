@@ -1,1 +1,1 @@
-# Hypotheisi_testing_statistical_inference
+# Hypothesis_testing_statistical_inference
